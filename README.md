@@ -98,6 +98,8 @@ Developed an AI-assisted screening tool for predicting the binding affinity of n
 RandomForest_Model.pkl – Trained Random Forest model for binding affinity prediction
 [Feature_Importance.csv](https://github.com/user-attachments/files/30760893/Feature_Importance.csv)
 <img width="2400" height="1500" alt="Image" src="https://github.com/user-attachments/assets/b9d3884d-c79f-438d-9bc7-389dcba501aa" />
+[AI_Screening_Tool.py](https://github.com/user-attachments/files/30761260/AI_Screening_Tool.py)
+
 
 
 
