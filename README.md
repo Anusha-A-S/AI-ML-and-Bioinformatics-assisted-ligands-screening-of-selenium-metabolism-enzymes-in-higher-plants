@@ -101,6 +101,13 @@ RandomForest_Model.pkl – Trained Random Forest model for binding affinity pred
 <img width="2400" height="1500" alt="Image" src="https://github.com/user-attachments/assets/b9d3884d-c79f-438d-9bc7-389dcba501aa" />
 [AI_Screening_Tool.py](https://github.com/user-attachments/files/30761260/AI_Screening_Tool.py)
 
+## FUTURE SCOPE:
+Screen larger ligand libraries.
+Perform molecular dynamics simulations. 
+Experimental validation in plants.
+Integrate ADMET prediction for comprehensive ligand evaluation.
+Extend the workflow to additional selenium metabolism enzymes and crop species.
+
 
 
 
