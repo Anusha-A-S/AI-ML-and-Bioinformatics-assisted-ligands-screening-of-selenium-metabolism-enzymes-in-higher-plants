@@ -1,0 +1,241 @@
+Protein,Rank,Ligand_File,CID,Best_Affinity,Ligand Name,SMILES,Molecular Weight,LogP,TPSA,HBA,HBD,Rotatable Bonds,Aromatic Rings,Heavy Atoms
+AF-P92979-F1-model_v6,1,9 Conformer3D_COMPOUND_CID_5281295_out.pdbqt,5281295,-9.171,"(2Z)-2-[(3,4-dihydroxyphenyl)methylidene]-6-hydroxy-1-benzofuran-3-one",O=C1/C(=C/c2ccc(O)c(O)c2)Oc2cc(O)ccc21,270.24,2.42,86.99,5,3,1,2,20
+AF-P92979-F1-model_v6,2,89 Conformer3D_COMPOUND_CID_57697_out.pdbqt,57697,-9.051,"9-methyl-3-(2H-tetrazol-5-yl)pyrido[1,2-a]pyrimidin-4-one",Cc1cccn2c(=O)c(-c3nn[nH]n3)cnc12,228.22,0.18,88.83,5,1,1,3,17
+AF-P92979-F1-model_v6,3,1 Conformer3D_COMPOUND_CID_10238_out.pdbqt,10238,-8.867,"[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl sulfo hydrogen phosphate",Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@](=O)(O)OS(=O)(=O)O)[C@@H](O)[C@H]1O,427.29,-2.04,229.44,12,5,6,2,27
+AF-P92979-F1-model_v6,4,105 Conformer3D_COMPOUND_CID_10177_out.pdbqt,10177,-8.667,2-(2-hydroxy-1H-indol-3-yl)indol-3-one,O=C1C(c2c(O)[nH]c3ccccc23)=Nc2ccccc21,262.27,3.19,65.45,3,2,1,3,20
+AF-P92979-F1-model_v6,5,109 Conformer3D_COMPOUND_CID_136510486_out.pdbqt,136510486,-8.4,5-(1H-benzimidazol-2-yl)-2-hydroxybenzoic acid,O=C(O)c1cc(-c2nc3ccccc3[nH]2)ccc1O,254.25,2.63,86.21,3,3,2,3,19
+AF-P92979-F1-model_v6,6,40 Conformer3D_COMPOUND_CID_145925915_out.pdbqt,145925915,-7.987,"5-(1,3-benzothiazol-2-yldiazenyl)-2-hydroxybenzoic acid",O=C(O)c1cc(/N=N/c2nc3ccccc3s2)ccc1O,299.31,4.12,95.14,6,2,3,3,21
+AF-P92979-F1-model_v6,7,36 Conformer3D_COMPOUND_CID_151505_out.pdbqt,151505,-7.976,"2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybenzoic acid",O=C(O)c1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,300.26,-1.44,136.68,7,5,4,1,21
+AF-P92979-F1-model_v6,8,54 Conformer3D_COMPOUND_CID_71749111_out.pdbqt,71749111,-7.817,"N-[1,1,2,2-tetradeuterio-2-(6-hydroxy-5-methoxy-1H-indol-3-yl)ethyl]acetamide",[2H]C([2H])(NC(C)=O)C([2H])([2H])c1c[nH]c2cc(O)c(OC)cc12,252.31,1.56,74.35,3,3,4,2,18
+AF-P92979-F1-model_v6,9,117 Conformer3D_COMPOUND_CID_439924_out.pdbqt,439924,-7.755,"1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyridin-1-ium-3-carboxamide",NC(=O)c1ccc[n+]([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c1,255.25,-2.32,116.89,5,4,3,1,18
+AF-P92979-F1-model_v6,10,58 Conformer3D_COMPOUND_CID_189748_out.pdbqt,189748,-7.699,"N-[2-(5,6-dimethoxy-1H-indol-3-yl)ethyl]acetamide",COc1cc2[nH]cc(CCNC(C)=O)c2cc1OC,262.31,1.86,63.35,3,2,5,2,19
+AF-P92979-F1-model_v6,11,110 Conformer3D_COMPOUND_CID_450274_out.pdbqt,450274,-7.683,2-[[2-[(2-hydroxybenzoyl)amino]acetyl]amino]acetic acid,O=C(O)CNC(=O)CNC(=O)c1ccccc1O,252.23,-0.68,115.73,4,4,5,1,18
+AF-P92979-F1-model_v6,12,16 Conformer3D_COMPOUND_CID_57354748_out.pdbqt,57354748,-7.679,"3-methyl-1,1-dioxo-5-(sulfamoylamino)-1,2,6-thiadiazinane",C[C@@H]1C[C@H](NS(N)(=O)=O)NS(=O)(=O)N1,244.3,-2.68,130.39,4,4,2,0,14
+AF-P92979-F1-model_v6,13,55 Conformer3D_COMPOUND_CID_162661094_out.pdbqt,162661094,-7.651,N-[2-(7-methoxyphthalazin-1-yl)ethyl]butanamide,CCCC(=O)NCCc1nncc2ccc(OC)cc12,273.34,2.1,64.11,4,1,6,2,20
+AF-P92979-F1-model_v6,14,25 Conformer3D_COMPOUND_CID_58319023_out.pdbqt,58319023,-7.596,"[[(3R,6S)-6-carbamoylpiperidin-3-yl]amino] hydrogen sulfate",NC(=O)[C@@H]1CC[C@@H](NOS(=O)(=O)O)CN1,239.25,-2.08,130.75,6,4,4,0,15
+AF-P92979-F1-model_v6,15,37 Conformer3D_COMPOUND_CID_12071638_out.pdbqt,12071638,-7.575,"2-(4,8-dimethylnonyl)-6-hydroxybenzoic acid",CC(C)CCC[C@H](C)CCCc1cccc(O)c1C(=O)O,292.42,4.88,57.53,2,2,9,1,21
+AF-P92979-F1-model_v6,16,104 Conformer3D_COMPOUND_CID_6303_out.pdbqt,6303,-7.526,"(2R,3R,5S)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolan-3-ol",Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)C[C@H]1O,251.25,-0.95,119.31,7,3,2,2,18
+AF-P92979-F1-model_v6,17,38 Conformer3D_COMPOUND_CID_21864615_out.pdbqt,21864615,-7.519,2-[(2-hydroxyphenyl)methoxy]benzoic acid,O=C(O)c1ccccc1OCc1ccccc1O,244.25,2.67,66.76,3,2,4,2,18
+AF-P92979-F1-model_v6,18,52 Conformer3D_COMPOUND_CID_15382325_out.pdbqt,15382325,-7.363,N-[2-(1-acetyl-5-methoxyindol-3-yl)ethyl]acetamide,COc1ccc2c(c1)c(CCNC(C)=O)cn2C(C)=O,274.32,1.99,60.33,3,1,4,2,20
+AF-P92979-F1-model_v6,19,51 Conformer3D_COMPOUND_CID_896_out.pdbqt,896,-7.327,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,232.28,1.86,54.12,2,2,4,2,17
+AF-P92979-F1-model_v6,20,24 Conformer3D_COMPOUND_CID_165879_out.pdbqt,165879,-7.304,(2-hydroxy-5-nitrophenyl) hydrogen sulfate,O=[N+]([O-])c1ccc(O)c(OS(=O)(=O)O)c1,235.17,0.48,126.97,6,2,3,1,15
+AF-P92979-F1-model_v6,21,60 Conformer3D_COMPOUND_CID_129373222_out.pdbqt,129373222,-7.268,"1-(7-methoxy-2,4-dihydro-1H-pyrrolo[2,3-b]indol-3-yl)ethanone",COc1ccc2[nH]c3c(c2c1)CCN3C(C)=O,230.27,2.09,45.33,2,1,1,2,17
+AF-P92979-F1-model_v6,22,32 Conformer3D_COMPOUND_CID_146037329_out.pdbqt,146037329,-7.258,(2S)-2-[[2-[3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetyl]amino]propanoate,CC/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)N[C@@H](C)C(=O)[O-],280.34,0.58,86.3,4,1,7,0,20
+AF-P92979-F1-model_v6,23,59 Conformer3D_COMPOUND_CID_1785786_out.pdbqt,1785786,-7.226,N-[2-(6-methoxy-1H-indol-3-yl)ethyl]acetamide,COc1ccc2c(CCNC(C)=O)c[nH]c2c1,232.28,1.86,54.12,2,2,4,2,17
+AF-P92979-F1-model_v6,24,11 Conformer3D_COMPOUND_CID_13295139_out.pdbqt,13295139,-7.215,1-(dimethylsulfamoylamino)-4-(trifluoromethylsulfanyl)benzene,CN(C)S(=O)(=O)Nc1ccc(SC(F)(F)F)cc1,300.33,2.52,49.41,3,1,4,1,18
+AF-P92979-F1-model_v6,25,15 Conformer3D_COMPOUND_CID_45117541_out.pdbqt,45117541,-7.176,"2-(sulfamoylamino)-2,3-dihydro-1H-indene",NS(=O)(=O)NC1Cc2ccccc2C1,212.27,-0.05,72.19,2,2,2,1,14
+AF-P92979-F1-model_v6,26,53 Conformer3D_COMPOUND_CID_91244073_out.pdbqt,91244073,-7.141,"2,2,2-trideuterio-N-[1,1,2,2-tetradeuterio-2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide",[2H]C([2H])([2H])C(=O)NC([2H])([2H])C([2H])([2H])c1c[nH]c2ccc(OC)cc12,239.33,1.86,54.12,2,2,4,2,17
+AF-P92979-F1-model_v6,27,43 Conformer3D_COMPOUND_CID_121226585_out.pdbqt,121226585,-7.039,2-hydroxy-4-(2-propan-2-ylidenehydrazinyl)benzoic acid,CC(C)=NNc1ccc(C(=O)O)c(O)c1,208.22,1.9,81.92,4,3,3,1,15
+AF-P92979-F1-model_v6,28,4 Conformer3D_COMPOUND_CID_54947465_out.pdbqt,54947465,-6.99,1-hydroxy-4-methyl-2-[[methyl(propan-2-yl)sulfamoyl]amino]benzene,Cc1ccc(O)c(NS(=O)(=O)N(C)C(C)C)c1,258.34,1.7,69.64,3,2,4,1,17
+AF-P92979-F1-model_v6,29,56 Conformer3D_COMPOUND_CID_154733091_out.pdbqt,154733091,-6.853,N-[2-(5-methoxy-1-sulfanylindol-3-yl)ethyl]acetamide,COc1ccc2c(c1)c(CCNC(C)=O)cn2S,264.35,2.02,43.26,3,2,4,2,18
+AF-P92979-F1-model_v6,30,14 Conformer3D_COMPOUND_CID_45117529_out.pdbqt,45117529,-6.83,"3-cyano-2-(sulfamoylamino)-5,6-dihydro-4H-cyclopenta[b]thiophene",N#Cc1c(NS(N)(=O)=O)sc2c1CCC2,243.31,0.72,95.98,4,2,2,1,15
+AF-P92979-F1-model_v6,31,111 Conformer3D_COMPOUND_CID_3080699_out.pdbqt,3080699,-6.671,2-hydroxy-5-nitrosobenzoic acid,O=Nc1ccc(O)c(C(=O)O)c1,167.12,1.49,86.96,4,2,2,1,12
+AF-P92979-F1-model_v6,32,45 Conformer3D_COMPOUND_CID_12611335_out.pdbqt,12611335,-6.65,methyl 2-hydroxy-4-(oxiran-2-ylmethoxy)benzoate,COC(=O)c1ccc(OC[C@@H]2CO2)cc1O,224.21,0.96,68.29,5,1,4,1,16
+AF-P92979-F1-model_v6,33,91 Conformer3D_COMPOUND_CID_7017_out.pdbqt,7017,-6.65,2-phenylphenol,Oc1ccccc1-c1ccccc1,170.21,3.06,20.23,1,1,1,2,13
+AF-P92979-F1-model_v6,34,10 Conformer3D_COMPOUND_CID_71365969_out.pdbqt,71365969,-6.646,1-(dimethylamino)-4-(sulfamoyliminomethyl)benzene,CN(C)c1ccc(C=NS(N)(=O)=O)cc1,227.29,0.37,75.76,3,1,3,1,15
+AF-P92979-F1-model_v6,35,33 Conformer3D_COMPOUND_CID_7251179_out.pdbqt,7251179,-6.644,"2-[(1S,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)[O-],209.26,1.08,57.2,3,0,5,0,15
+AF-P92979-F1-model_v6,36,106 Conformer3D_COMPOUND_CID_158364_out.pdbqt,158364,-6.616,"4-(carboxymethyl)-N,N-bis(2-chloroethyl)benzeneamine oxide",O=C(O)Cc1ccc([N+]([O-])(CCCl)CCCl)cc1,292.16,2.6,60.36,2,1,7,1,18
+AF-P92979-F1-model_v6,37,48 Conformer3D_COMPOUND_CID_5281929_out.pdbqt,5281929,-6.588,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)OC,224.3,2.5,43.37,3,0,5,0,16
+AF-P92979-F1-model_v6,38,39 Conformer3D_COMPOUND_CID_19598963_out.pdbqt,19598963,-6.578,3-propan-2-yl-2-propan-2-yloxybenzoic acid,CC(C)Oc1c(C(=O)O)cccc1C(C)C,222.28,3.3,46.53,2,1,4,1,16
+AF-P92979-F1-model_v6,39,35 Conformer3D_COMPOUND_CID_126843507_out.pdbqt,126843507,-6.52,2-[2-[(Z)-5-hydroxypent-2-enyl]-3-oxocyclopentyl]acetate,O=C([O-])C[C@@H]1CCC(=O)[C@H]1C/C=C\CCO,225.26,0.05,77.43,4,1,6,0,16
+AF-P92979-F1-model_v6,40,30 Conformer3D_COMPOUND_CID_11557659_out.pdbqt,11557659,-6.505,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-5,5,5-trideuteriopent-2-enyl]cyclopentyl]acetate",[2H]C([2H])([2H])C/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)OC,227.32,2.5,43.37,3,0,5,0,16
+AF-P92979-F1-model_v6,41,83 Conformer3D_COMPOUND_CID_33037_out.pdbqt,33037,-6.496,"(2S,3S,4S,5R)-2,3,4,5-tetrahydroxyhexanedioic acid",O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O,210.14,-3.4,155.52,6,6,5,0,14
+AF-P92979-F1-model_v6,42,19 Conformer3D_COMPOUND_CID_54434743_out.pdbqt,54434743,-6.467,4-methylsulfanyl-N-(propan-2-ylsulfamoyl)aniline,CSc1ccc(NS(=O)(=O)NC(C)C)cc1,260.38,2.06,58.2,3,2,5,1,16
+AF-P92979-F1-model_v6,43,7 Conformer3D_COMPOUND_CID_71441023_out.pdbqt,71441023,-6.439,2-methyl-N-(2-methylbut-3-en-2-ylsulfamoyl)but-3-en-2-amine,C=CC(C)(C)NS(=O)(=O)NC(C)(C)C=C,232.35,1.34,58.2,2,2,6,0,15
+AF-P92979-F1-model_v6,44,26 Conformer3D_COMPOUND_CID_5281166_out.pdbqt,5281166,-6.392,"2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",CC/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)O,210.27,2.41,54.37,2,1,5,0,15
+AF-P92979-F1-model_v6,45,112 Conformer3D_COMPOUND_CID_16205339_out.pdbqt,16205339,-6.378,4-methylpent-4-en-2-yl 2-hydroxybenzoate,C=C(C)C[C@@H](C)OC(=O)c1ccccc1O,220.27,2.9,46.53,3,1,4,1,16
+AF-P92979-F1-model_v6,46,82 Conformer3D_COMPOUND_CID_17507_out.pdbqt,17507,-6.375,"2,5-dihydroxybenzenesulfonic acid",O=S(=O)(O)c1cc(O)ccc1O,190.18,0.34,94.83,4,3,1,1,12
+AF-P92979-F1-model_v6,47,29 Conformer3D_COMPOUND_CID_71749649_out.pdbqt,71749649,-6.362,"2-[(1S,2S)-3-oxo-2-[(Z)-5,5,5-trideuteriopent-2-enyl]cyclopentyl]acetic acid",[2H]C([2H])([2H])C/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)O,213.29,2.41,54.37,2,1,5,0,15
+AF-P92979-F1-model_v6,48,27 Conformer3D_COMPOUND_CID_163321940_out.pdbqt,163321940,-6.35,"2,2-dideuterio-2-[(1R,2R)-2,4,4-trideuterio-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",[2H]C1([2H])C[C@H](C([2H])([2H])C(=O)O)[C@@]([2H])(C/C=C\CC)C1=O,215.3,2.41,54.37,2,1,5,0,15
+AF-P92979-F1-model_v6,49,86 Conformer3D_COMPOUND_CID_980_out.pdbqt,980,-6.347,4-nitrophenol,O=[N+]([O-])c1ccc(O)cc1,139.11,1.3,63.37,3,1,1,1,10
+AF-P92979-F1-model_v6,50,23 Conformer3D_COMPOUND_CID_4615423_out.pdbqt,4615423,-6.338,(4-methylphenyl) hydrogen sulfate,Cc1ccc(OS(=O)(=O)O)cc1,188.2,1.18,63.6,3,1,2,1,12
+AF-P92979-F1-model_v6,51,44 Conformer3D_COMPOUND_CID_17862778_out.pdbqt,17862778,-6.334,"6,6-dihydroxycyclohexa-2,4-diene-1-carboxylic acid",O=C(O)[C@H]1C=CC=CC1(O)O,156.14,-0.51,77.76,3,3,1,0,11
+AF-P92979-F1-model_v6,52,34 Conformer3D_COMPOUND_CID_7251182_out.pdbqt,7251182,-6.298,"2-[(1R,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@@H]1CC(=O)[O-],209.26,1.08,57.2,3,0,5,0,15
+AF-P92979-F1-model_v6,53,31 Conformer3D_COMPOUND_CID_71749651_out.pdbqt,71749651,-6.292,"methyl 2-[(1S,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@H]1[13CH2][13C](=O)OC,226.28,2.5,43.37,3,0,5,0,16
+AF-P92979-F1-model_v6,54,28 Conformer3D_COMPOUND_CID_74627779_out.pdbqt,74627779,-6.263,"2-[(1R,2R,3E)-3-methoxyimino-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",CC/C=C\C[C@H]1/C(=N/OC)CC[C@@H]1CC(=O)O,239.31,2.85,58.89,3,1,6,0,17
+AF-P92979-F1-model_v6,55,108 Conformer3D_COMPOUND_CID_54675850_out.pdbqt,54675850,-6.222,2-carboxyphenolate,O=C(O)c1ccccc1[O-],137.11,0.46,60.36,2,1,1,1,10
+AF-P92979-F1-model_v6,56,41 Conformer3D_COMPOUND_CID_155803953_out.pdbqt,155803953,-6.191,"2,3,4,5-tetradeuterio-6-deuteriooxybenzoic acid",[2H]Oc1c([2H])c([2H])c([2H])c([2H])c1C(=O)O,143.15,1.09,57.53,2,2,2,1,10
+AF-P92979-F1-model_v6,57,107 Conformer3D_COMPOUND_CID_338_out.pdbqt,338,-6.191,2-hydroxybenzoic acid,O=C(O)c1ccccc1O,138.12,1.09,57.53,2,2,1,1,10
+AF-P92979-F1-model_v6,58,42 Conformer3D_COMPOUND_CID_71309006_out.pdbqt,71309006,-6.185,"deuterio 2,3,4,5-tetradeuterio-6-deuteriooxybenzoate",[2H]OC(=O)c1c([2H])c([2H])c([2H])c([2H])c1O[2H],144.16,1.09,57.53,3,2,2,1,10
+AF-P92979-F1-model_v6,59,47 Conformer3D_COMPOUND_CID_390924_out.pdbqt,390924,-6.183,prop-2-ynyl 2-hydroxybenzoate,C#CCOC(=O)c1ccccc1O,176.17,1.18,46.53,3,1,2,1,13
+AF-P92979-F1-model_v6,60,21 Conformer3D_COMPOUND_CID_1994214_out.pdbqt,1994214,-6.151,N-(dimethylsulfamoyl)-N-(thiophen-2-ylmethyl)butan-1-amine,CCCCN(Cc1cccs1)S(=O)(=O)N(C)C,276.43,2.16,40.62,3,0,7,1,17
+AF-P92979-F1-model_v6,61,12 Conformer3D_COMPOUND_CID_137347899_out.pdbqt,137347899,-6.08,"2-(sulfamoylamino)-1,4,5,6-tetrahydropyrimidine",NS(=O)(=O)NC1=NCCCN1,178.22,-1.87,96.58,4,3,1,0,11
+AF-P92979-F1-model_v6,62,71 Conformer3D_COMPOUND_CID_5231_out.pdbqt,5231,-5.979,2-acetamido-3-methyl-3-nitrososulfanylbutanoic acid,CC(=O)N[C@H](C(=O)O)C(C)(C)SN=O,220.25,0.77,95.83,5,2,5,0,14
+AF-P92979-F1-model_v6,63,120 Conformer3D_COMPOUND_CID_12243705_out.pdbqt,12243705,-5.957,2-methylpyridine-3-carboxamide,Cc1ncccc1C(N)=O,136.15,0.49,55.98,2,1,1,1,10
+AF-P92979-F1-model_v6,64,116 Conformer3D_COMPOUND_CID_5147_out.pdbqt,5147,-5.871,2-hydroxybenzamide,NC(=O)c1ccccc1O,137.14,0.49,63.32,2,2,1,1,10
+AF-P92979-F1-model_v6,65,46 Conformer3D_COMPOUND_CID_49849878_out.pdbqt,49849878,-5.834,"deuterio-(2,3,4,5-tetradeuterio-6-deuteriooxyphenyl)methanone",[2H]Oc1c([2H])c([2H])c([2H])c([2H])c1C([2H])=O,128.16,1.2,37.3,2,1,2,1,9
+AF-P92979-F1-model_v6,66,94 Conformer3D_COMPOUND_CID_978_out.pdbqt,978,-5.834,4-aminobenzoic acid,Nc1ccc(C(=O)O)cc1,137.14,0.97,63.32,2,2,1,1,10
+AF-P92979-F1-model_v6,67,68 Conformer3D_COMPOUND_CID_135503978_out.pdbqt,135503978,-5.785,(Z)-[3-aminopropyl(propyl)amino]-hydroxyimino-oxidoazanium,CCCN(CCCN)/[N+]([O-])=N/O,176.22,0.31,87.92,3,2,6,0,12
+AF-P92979-F1-model_v6,68,81 Conformer3D_COMPOUND_CID_85065_out.pdbqt,85065,-5.757,3-prop-2-enoyloxypropane-1-sulfonic acid,C=CC(=O)OCCCS(=O)(=O)O,194.21,-0.01,80.67,4,1,5,0,12
+AF-P92979-F1-model_v6,69,102 Conformer3D_COMPOUND_CID_2230_out.pdbqt,2230,-5.755,"methyl 1-methyl-3,6-dihydro-2H-pyridine-5-carboxylate",COC(=O)C1=CCCN(C)C1,155.2,0.42,29.54,3,0,1,0,11
+AF-P92979-F1-model_v6,70,118 Conformer3D_COMPOUND_CID_15070_out.pdbqt,15070,-5.754,pyridine-2-carboxamide,NC(=O)c1ccccn1,122.13,0.18,55.98,2,1,1,1,9
+AF-P92979-F1-model_v6,71,49 Conformer3D_COMPOUND_CID_573652_out.pdbqt,573652,-5.717,3-methyl-2-(3-methylbutyl)cyclopent-2-en-1-one,CC1=C(CCC(C)C)C(=O)CC1,166.26,3.1,17.07,1,0,3,0,12
+AF-P92979-F1-model_v6,72,2 Conformer3D_COMPOUND_CID_15155595_out.pdbqt,15155595,-5.692,"2-(sulfamoylamino)-4,5-dihydro-1,3-oxazole",NS(=O)(=O)NC1=NCCO1,165.17,-1.83,93.78,4,2,1,0,10
+AF-P92979-F1-model_v6,73,50 Conformer3D_COMPOUND_CID_10261_out.pdbqt,10261,-5.69,3-methyl-2-pent-2-enylcyclopent-2-en-1-one,CCC=CCC1=C(C)CCC1=O,164.25,3.02,17.07,1,0,3,0,12
+AF-P92979-F1-model_v6,74,115 Conformer3D_COMPOUND_CID_936_out.pdbqt,936,-5.63,pyridine-3-carboxamide,NC(=O)c1cccnc1,122.13,0.18,55.98,2,1,1,1,9
+AF-P92979-F1-model_v6,75,8 Conformer3D_COMPOUND_CID_71380131_out.pdbqt,71380131,-5.625,"1,1,1,2-tetrachloro-2-(dimethylsulfamoylamino)ethane",CN(C)S(=O)(=O)N[C@H](Cl)C(Cl)(Cl)Cl,290.0,1.32,49.41,2,1,3,0,13
+AF-P92979-F1-model_v6,76,103 Conformer3D_COMPOUND_CID_87310_out.pdbqt,87310,-5.565,(2R)-2-amino-3-prop-2-enylsulfinylpropanoic acid,C=CC[S@](=O)C[C@H](N)C(=O)O,177.22,-0.67,80.39,3,2,5,0,11
+AF-P92979-F1-model_v6,77,6 Conformer3D_COMPOUND_CID_71380130_out.pdbqt,71380130,-5.526,"1,1,1-trichloro-2-(dimethylsulfamoylimino)ethane",CN(C)S(=O)(=O)N=CC(Cl)(Cl)Cl,253.54,1.23,49.74,2,0,2,0,12
+AF-P92979-F1-model_v6,78,72 Conformer3D_COMPOUND_CID_9605288_out.pdbqt,9605288,-5.507,(Z)-ethenoxyimino-oxido-pyrrolidin-1-ylazanium,C=CO/N=[N+](\[O-])N1CCCC1,157.17,1.03,50.9,3,0,3,0,11
+AF-P92979-F1-model_v6,79,85 Conformer3D_COMPOUND_CID_56633199_out.pdbqt,56633199,-5.502,nonan-5-yl hydrogen sulfate,CCCCC(CCCC)OS(=O)(=O)O,224.32,2.55,63.6,3,1,8,0,14
+AF-P92979-F1-model_v6,80,119 Conformer3D_COMPOUND_CID_938_out.pdbqt,938,-5.491,pyridine-3-carboxylic acid,O=C(O)c1cccnc1,123.11,0.78,50.19,2,1,1,1,9
+AF-P92979-F1-model_v6,81,113 Conformer3D_COMPOUND_CID_996_out.pdbqt,996,-5.44,phenol,Oc1ccccc1,94.11,1.39,20.23,1,1,0,1,7
+AF-P92979-F1-model_v6,82,20 Conformer3D_COMPOUND_CID_15155596_out.pdbqt,15155596,-5.431,"2-(sulfamoylamino)-4,5-dihydro-1,3-thiazole",NS(=O)(=O)NC1=NCCS1,181.24,-1.12,84.55,4,2,1,0,10
+AF-P92979-F1-model_v6,83,5 Conformer3D_COMPOUND_CID_71383291_out.pdbqt,71383291,-5.214,[trimethylsilyl(trimethylsilylsulfamoyl)amino]methane,CN([Si](C)(C)C)S(=O)(=O)N[Si](C)(C)C,254.5,1.42,49.41,2,1,4,0,14
+AF-P92979-F1-model_v6,84,66 Conformer3D_COMPOUND_CID_135406888_out.pdbqt,135406888,-4.947,(Z)-diethylamino-hydroxyimino-oxidoazanium,CCN(CC)/[N+]([O-])=N/O,133.15,0.59,61.9,2,1,3,0,9
+AF-P92979-F1-model_v6,85,64 Conformer3D_COMPOUND_CID_6331148_out.pdbqt,6331148,-4.891,N-(diethylamino)-N-oxidonitrous amide,CCN(CC)N([O-])N=O,132.14,0.72,58.97,4,0,4,0,9
+AF-P92979-F1-model_v6,86,73 Conformer3D_COMPOUND_CID_1269845_out.pdbqt,1269845,-4.877,2-sulfanylidene-1H-pyrimidin-4-one,O=c1cc[nH]c(=S)[nH]1,128.16,0.43,48.65,2,2,0,1,8
+AF-P92979-F1-model_v6,87,69 Conformer3D_COMPOUND_CID_6331148 (1)_out.pdbqt,6331148,-4.872,N-(diethylamino)-N-oxidonitrous amide,CCN(CC)N([O-])N=O,132.14,0.72,58.97,4,0,4,0,9
+AF-P92979-F1-model_v6,88,93 Conformer3D_COMPOUND_CID_655_out.pdbqt,655,-4.511,diethoxy-hydroxy-sulfanylidene-lambda5-phosphane,CCOP(O)(=S)OCC,170.17,1.28,38.69,3,1,4,0,9
+AF-P92979-F1-model_v6,89,84 Conformer3D_COMPOUND_CID_53438496_out.pdbqt,53438496,-4.416,2-diazoacetic acid,N#[N+]C=C([O-])O,86.05,-0.44,71.44,3,1,0,0,6
+AF-P92979-F1-model_v6,90,18 Conformer3D_COMPOUND_CID_82267_out.pdbqt,82267,-4.377,sulfamide,NS(N)(=O)=O,96.11,-1.85,86.18,2,2,0,0,5
+AF-P92979-F1-model_v6,91,101 Conformer3D_COMPOUND_CID_248_out.pdbqt,248,-4.307,carboxymethyl(trimethyl)azanium,C[N+](C)(C)CC(=O)O,118.16,-0.22,37.3,1,1,2,0,8
+AF-P92979-F1-model_v6,92,22 Conformer3D_COMPOUND_CID_1117_out.pdbqt,1117,-4.282,sulfate,O=S(=O)([O-])[O-],96.06,-1.34,80.26,4,0,0,0,5
+AF-P92979-F1-model_v6,93,17 Conformer3D_COMPOUND_CID_139618_out.pdbqt,139618,-4.272,Not available,O=S=NSN=S=O,156.21,0.34,58.86,5,0,2,0,7
+AF-P92979-F1-model_v6,94,100 Conformer3D_COMPOUND_CID_247_out.pdbqt,247,-4.257,2-(trimethylazaniumyl)acetate,C[N+](C)(C)CC(=O)[O-],117.15,-1.56,40.13,2,0,2,0,8
+AF-P92979-F1-model_v6,95,99 Conformer3D_COMPOUND_CID_1118_out.pdbqt,1118,-4.243,sulfuric acid,O=S(=O)(O)O,98.08,-0.65,74.6,2,2,0,0,5
+AF-P92979-F1-model_v6,96,79 Conformer3D_COMPOUND_CID_24955_out.pdbqt,24955,-4.201,1H-imidazole-2-carbaldehyde,O=Cc1ncc[nH]1,96.09,0.22,45.75,2,1,1,1,7
+AF-P92979-F1-model_v6,97,92 Conformer3D_COMPOUND_CID_6405_out.pdbqt,6405,-4.181,2-methylbutan-2-ol,CCC(C)(C)O,88.15,1.17,20.23,1,1,1,0,6
+AF-P92979-F1-model_v6,98,57 Conformer3D_COMPOUND_CID_753_out.pdbqt,753,-4.114,"propane-1,2,3-triol",OCC(O)CO,92.09,-1.67,60.69,3,3,2,0,6
+AF-P92979-F1-model_v6,99,3 Conformer3D_COMPOUND_CID_77385_out.pdbqt,77385,-4.091,N-dimethylsulfinamoyl-N-methylmethanamine,CN(C)S(=O)N(C)C,136.22,-0.31,23.55,1,0,2,0,8
+AF-P92979-F1-model_v6,100,95 Conformer3D_COMPOUND_CID_25581_out.pdbqt,25581,-3.944,2-methylpropoxymethanedithioic acid,CC(C)COC(=S)S,150.27,1.87,9.23,2,1,2,0,8
+AF-P92979-F1-model_v6,101,61 Conformer3D_COMPOUND_CID_13039058_out.pdbqt,13039058,-3.933,"(1S,2R,4R,5S,7S,11S,12S,15R,16S)-15-[(2S,3S,4S,5R)-3,4-dihydroxy-5,6-dimethylheptan-2-yl]-4,5-dihydroxy-2,16-dimethyl-9-oxatetracyclo[9.7.0.02,7.012,16]octadecan-8-one",CC(C)[C@@H](C)[C@H](O)[C@@H](O)[C@@H](C)[C@H]1CC[C@H]2[C@@H]3COC(=O)[C@H]4C[C@H](O)[C@H](O)C[C@]4(C)[C@H]3CC[C@]12C,480.69,3.39,107.22,6,4,5,0,34
+AF-P92979-F1-model_v6,102,75 Conformer3D_COMPOUND_CID_108022_out.pdbqt,108022,-3.855,2-nitrososulfanylethanol,O=NSCCO,107.13,0.39,49.66,4,1,3,0,6
+AF-P92979-F1-model_v6,103,87 Conformer3D_COMPOUND_CID_6386_out.pdbqt,6386,-3.806,2-methylpropan-2-ol,CC(C)(C)O,74.12,0.78,20.23,1,1,0,0,5
+AF-P92979-F1-model_v6,104,76 Conformer3D_COMPOUND_CID_2146 (1)_out.pdbqt,2146,-3.759,2-aminoguanidine,NN=C(N)N,74.09,-1.87,90.42,2,3,0,0,5
+AF-P92979-F1-model_v6,105,90 Conformer3D_COMPOUND_CID_7919_out.pdbqt,7919,-3.741,propan-2-yloxymethanedithioic acid,CC(C)OC(=S)S,136.24,1.63,9.23,2,1,1,0,7
+AF-P92979-F1-model_v6,106,114 Conformer3D_COMPOUND_CID_61844_out.pdbqt,61844,-3.723,trihydroxy(methyl)silane,C[Si](O)(O)O,94.14,-1.47,60.69,3,3,0,0,5
+AF-P92979-F1-model_v6,107,70 Conformer3D_COMPOUND_CID_6857661_out.pdbqt,6857661,-3.689,N-oxonitrous amide,O=NN=O,60.01,0.43,58.86,2,0,1,0,4
+AF-P92979-F1-model_v6,108,78 Conformer3D_COMPOUND_CID_8028_out.pdbqt,8028,-3.586,oxolane,C1CCOC1,72.11,0.8,9.23,1,0,0,0,5
+AF-P92979-F1-model_v6,109,13 Conformer3D_COMPOUND_CID_9964064_out.pdbqt,9964064,-3.558,Not available,NS(N)=O,80.11,-1.52,69.11,1,2,0,0,4
+AF-P92979-F1-model_v6,110,65 Conformer3D_COMPOUND_CID_8021_out.pdbqt,8021,-3.437,N-ethylethanamine,CCNCC,73.14,0.62,12.03,1,1,2,0,5
+AF-P92979-F1-model_v6,111,80 Conformer3D_COMPOUND_CID_176 (1)_out.pdbqt,176,-3.388,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-P92979-F1-model_v6,112,77 Conformer3D_COMPOUND_CID_176_out.pdbqt,176,-3.384,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-P92979-F1-model_v6,113,98 Conformer3D_COMPOUND_CID_176 (2)_out.pdbqt,176,-3.358,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-P92979-F1-model_v6,114,88 Conformer3D_COMPOUND_CID_8823_out.pdbqt,8823,-3.286,ethoxymethanedithioic acid,CCOC(=S)S,122.21,1.24,9.23,2,1,1,0,6
+AF-P92979-F1-model_v6,115,96 Conformer3D_COMPOUND_CID_6599_out.pdbqt,6599,-2.897,dimethylcarbamodithioic acid,CN(C)C(=S)S,121.23,0.76,3.24,1,1,0,0,6
+AF-P92979-F1-model_v6,116,74 Conformer3D_COMPOUND_CID_11389353_out.pdbqt,11389353,-2.772,thionitrous S-acid,O=NS,63.08,0.6,29.43,2,1,0,0,3
+AF-P92979-F1-model_v6,117,97 Conformer3D_COMPOUND_CID_702_out.pdbqt,702,-2.77,ethanol,CCO,46.07,-0.0,20.23,1,1,0,0,3
+AF-P92979-F1-model_v6,118,62 Conformer3D_COMPOUND_CID_945_out.pdbqt,945,-2.675,nitroxyl,N=O,31.01,0.33,40.92,2,1,0,0,2
+AF-P92979-F1-model_v6,119,67 Conformer3D_COMPOUND_CID_84878_out.pdbqt,84878,-2.194,azanylidyneoxidanium,N#[O+],30.01,-0.1,43.69,1,0,0,0,2
+AF-P92979-F1-model_v6,120,63 Conformer3D_COMPOUND_CID_3001380_out.pdbqt,3001380,-2.167,nitroxyl anion,[N-]=O,30.01,0.32,39.37,1,0,0,0,2
+AF-Q9LIK9-F1-model_v6,1,61 Conformer3D_COMPOUND_CID_13039058_out.pdbqt,13039058,-8.931,"(1S,2R,4R,5S,7S,11S,12S,15R,16S)-15-[(2S,3S,4S,5R)-3,4-dihydroxy-5,6-dimethylheptan-2-yl]-4,5-dihydroxy-2,16-dimethyl-9-oxatetracyclo[9.7.0.02,7.012,16]octadecan-8-one",CC(C)[C@@H](C)[C@H](O)[C@@H](O)[C@@H](C)[C@H]1CC[C@H]2[C@@H]3COC(=O)[C@H]4C[C@H](O)[C@H](O)C[C@]4(C)[C@H]3CC[C@]12C,480.69,3.39,107.22,6,4,5,0,34
+AF-Q9LIK9-F1-model_v6,2,40 Conformer3D_COMPOUND_CID_145925915_out.pdbqt,145925915,-8.776,"5-(1,3-benzothiazol-2-yldiazenyl)-2-hydroxybenzoic acid",O=C(O)c1cc(/N=N/c2nc3ccccc3s2)ccc1O,299.31,4.12,95.14,6,2,3,3,21
+AF-Q9LIK9-F1-model_v6,3,1 Conformer3D_COMPOUND_CID_10238_out.pdbqt,10238,-8.469,"[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl sulfo hydrogen phosphate",Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO[P@](=O)(O)OS(=O)(=O)O)[C@@H](O)[C@H]1O,427.29,-2.04,229.44,12,5,6,2,27
+AF-Q9LIK9-F1-model_v6,4,105 Conformer3D_COMPOUND_CID_10177_out.pdbqt,10177,-8.464,2-(2-hydroxy-1H-indol-3-yl)indol-3-one,O=C1C(c2c(O)[nH]c3ccccc23)=Nc2ccccc21,262.27,3.19,65.45,3,2,1,3,20
+AF-Q9LIK9-F1-model_v6,5,109 Conformer3D_COMPOUND_CID_136510486_out.pdbqt,136510486,-8.279,5-(1H-benzimidazol-2-yl)-2-hydroxybenzoic acid,O=C(O)c1cc(-c2nc3ccccc3[nH]2)ccc1O,254.25,2.63,86.21,3,3,2,3,19
+AF-Q9LIK9-F1-model_v6,6,9 Conformer3D_COMPOUND_CID_5281295_out.pdbqt,5281295,-8.135,"(2Z)-2-[(3,4-dihydroxyphenyl)methylidene]-6-hydroxy-1-benzofuran-3-one",O=C1/C(=C/c2ccc(O)c(O)c2)Oc2cc(O)ccc21,270.24,2.42,86.99,5,3,1,2,20
+AF-Q9LIK9-F1-model_v6,7,54 Conformer3D_COMPOUND_CID_71749111_out.pdbqt,71749111,-7.889,"N-[1,1,2,2-tetradeuterio-2-(6-hydroxy-5-methoxy-1H-indol-3-yl)ethyl]acetamide",[2H]C([2H])(NC(C)=O)C([2H])([2H])c1c[nH]c2cc(O)c(OC)cc12,252.31,1.56,74.35,3,3,4,2,18
+AF-Q9LIK9-F1-model_v6,8,89 Conformer3D_COMPOUND_CID_57697_out.pdbqt,57697,-7.836,"9-methyl-3-(2H-tetrazol-5-yl)pyrido[1,2-a]pyrimidin-4-one",Cc1cccn2c(=O)c(-c3nn[nH]n3)cnc12,228.22,0.18,88.83,5,1,1,3,17
+AF-Q9LIK9-F1-model_v6,9,52 Conformer3D_COMPOUND_CID_15382325_out.pdbqt,15382325,-7.82,N-[2-(1-acetyl-5-methoxyindol-3-yl)ethyl]acetamide,COc1ccc2c(c1)c(CCNC(C)=O)cn2C(C)=O,274.32,1.99,60.33,3,1,4,2,20
+AF-Q9LIK9-F1-model_v6,10,36 Conformer3D_COMPOUND_CID_151505_out.pdbqt,151505,-7.787,"2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxybenzoic acid",O=C(O)c1ccccc1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,300.26,-1.44,136.68,7,5,4,1,21
+AF-Q9LIK9-F1-model_v6,11,16 Conformer3D_COMPOUND_CID_57354748_out.pdbqt,57354748,-7.656,"3-methyl-1,1-dioxo-5-(sulfamoylamino)-1,2,6-thiadiazinane",C[C@@H]1C[C@H](NS(N)(=O)=O)NS(=O)(=O)N1,244.3,-2.68,130.39,4,4,2,0,14
+AF-Q9LIK9-F1-model_v6,12,55 Conformer3D_COMPOUND_CID_162661094_out.pdbqt,162661094,-7.63,N-[2-(7-methoxyphthalazin-1-yl)ethyl]butanamide,CCCC(=O)NCCc1nncc2ccc(OC)cc12,273.34,2.1,64.11,4,1,6,2,20
+AF-Q9LIK9-F1-model_v6,13,117 Conformer3D_COMPOUND_CID_439924_out.pdbqt,439924,-7.506,"1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyridin-1-ium-3-carboxamide",NC(=O)c1ccc[n+]([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c1,255.25,-2.32,116.89,5,4,3,1,18
+AF-Q9LIK9-F1-model_v6,14,51 Conformer3D_COMPOUND_CID_896_out.pdbqt,896,-7.503,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,232.28,1.86,54.12,2,2,4,2,17
+AF-Q9LIK9-F1-model_v6,15,104 Conformer3D_COMPOUND_CID_6303_out.pdbqt,6303,-7.367,"(2R,3R,5S)-2-(6-aminopurin-9-yl)-5-(hydroxymethyl)oxolan-3-ol",Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)C[C@H]1O,251.25,-0.95,119.31,7,3,2,2,18
+AF-Q9LIK9-F1-model_v6,16,25 Conformer3D_COMPOUND_CID_58319023_out.pdbqt,58319023,-7.357,"[[(3R,6S)-6-carbamoylpiperidin-3-yl]amino] hydrogen sulfate",NC(=O)[C@@H]1CC[C@@H](NOS(=O)(=O)O)CN1,239.25,-2.08,130.75,6,4,4,0,15
+AF-Q9LIK9-F1-model_v6,17,59 Conformer3D_COMPOUND_CID_1785786_out.pdbqt,1785786,-7.354,N-[2-(6-methoxy-1H-indol-3-yl)ethyl]acetamide,COc1ccc2c(CCNC(C)=O)c[nH]c2c1,232.28,1.86,54.12,2,2,4,2,17
+AF-Q9LIK9-F1-model_v6,18,15 Conformer3D_COMPOUND_CID_45117541_out.pdbqt,45117541,-7.348,"2-(sulfamoylamino)-2,3-dihydro-1H-indene",NS(=O)(=O)NC1Cc2ccccc2C1,212.27,-0.05,72.19,2,2,2,1,14
+AF-Q9LIK9-F1-model_v6,19,53 Conformer3D_COMPOUND_CID_91244073_out.pdbqt,91244073,-7.328,"2,2,2-trideuterio-N-[1,1,2,2-tetradeuterio-2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide",[2H]C([2H])([2H])C(=O)NC([2H])([2H])C([2H])([2H])c1c[nH]c2ccc(OC)cc12,239.33,1.86,54.12,2,2,4,2,17
+AF-Q9LIK9-F1-model_v6,20,110 Conformer3D_COMPOUND_CID_450274_out.pdbqt,450274,-7.314,2-[[2-[(2-hydroxybenzoyl)amino]acetyl]amino]acetic acid,O=C(O)CNC(=O)CNC(=O)c1ccccc1O,252.23,-0.68,115.73,4,4,5,1,18
+AF-Q9LIK9-F1-model_v6,21,58 Conformer3D_COMPOUND_CID_189748_out.pdbqt,189748,-7.202,"N-[2-(5,6-dimethoxy-1H-indol-3-yl)ethyl]acetamide",COc1cc2[nH]cc(CCNC(C)=O)c2cc1OC,262.31,1.86,63.35,3,2,5,2,19
+AF-Q9LIK9-F1-model_v6,22,60 Conformer3D_COMPOUND_CID_129373222_out.pdbqt,129373222,-7.198,"1-(7-methoxy-2,4-dihydro-1H-pyrrolo[2,3-b]indol-3-yl)ethanone",COc1ccc2[nH]c3c(c2c1)CCN3C(C)=O,230.27,2.09,45.33,2,1,1,2,17
+AF-Q9LIK9-F1-model_v6,23,24 Conformer3D_COMPOUND_CID_165879_out.pdbqt,165879,-7.152,(2-hydroxy-5-nitrophenyl) hydrogen sulfate,O=[N+]([O-])c1ccc(O)c(OS(=O)(=O)O)c1,235.17,0.48,126.97,6,2,3,1,15
+AF-Q9LIK9-F1-model_v6,24,14 Conformer3D_COMPOUND_CID_45117529_out.pdbqt,45117529,-7.039,"3-cyano-2-(sulfamoylamino)-5,6-dihydro-4H-cyclopenta[b]thiophene",N#Cc1c(NS(N)(=O)=O)sc2c1CCC2,243.31,0.72,95.98,4,2,2,1,15
+AF-Q9LIK9-F1-model_v6,25,32 Conformer3D_COMPOUND_CID_146037329_out.pdbqt,146037329,-7.016,(2S)-2-[[2-[3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetyl]amino]propanoate,CC/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)N[C@@H](C)C(=O)[O-],280.34,0.58,86.3,4,1,7,0,20
+AF-Q9LIK9-F1-model_v6,26,38 Conformer3D_COMPOUND_CID_21864615_out.pdbqt,21864615,-6.97,2-[(2-hydroxyphenyl)methoxy]benzoic acid,O=C(O)c1ccccc1OCc1ccccc1O,244.25,2.67,66.76,3,2,4,2,18
+AF-Q9LIK9-F1-model_v6,27,39 Conformer3D_COMPOUND_CID_19598963_out.pdbqt,19598963,-6.847,3-propan-2-yl-2-propan-2-yloxybenzoic acid,CC(C)Oc1c(C(=O)O)cccc1C(C)C,222.28,3.3,46.53,2,1,4,1,16
+AF-Q9LIK9-F1-model_v6,28,11 Conformer3D_COMPOUND_CID_13295139_out.pdbqt,13295139,-6.777,1-(dimethylsulfamoylamino)-4-(trifluoromethylsulfanyl)benzene,CN(C)S(=O)(=O)Nc1ccc(SC(F)(F)F)cc1,300.33,2.52,49.41,3,1,4,1,18
+AF-Q9LIK9-F1-model_v6,29,4 Conformer3D_COMPOUND_CID_54947465_out.pdbqt,54947465,-6.762,1-hydroxy-4-methyl-2-[[methyl(propan-2-yl)sulfamoyl]amino]benzene,Cc1ccc(O)c(NS(=O)(=O)N(C)C(C)C)c1,258.34,1.7,69.64,3,2,4,1,17
+AF-Q9LIK9-F1-model_v6,30,43 Conformer3D_COMPOUND_CID_121226585_out.pdbqt,121226585,-6.746,2-hydroxy-4-(2-propan-2-ylidenehydrazinyl)benzoic acid,CC(C)=NNc1ccc(C(=O)O)c(O)c1,208.22,1.9,81.92,4,3,3,1,15
+AF-Q9LIK9-F1-model_v6,31,112 Conformer3D_COMPOUND_CID_16205339_out.pdbqt,16205339,-6.732,4-methylpent-4-en-2-yl 2-hydroxybenzoate,C=C(C)C[C@@H](C)OC(=O)c1ccccc1O,220.27,2.9,46.53,3,1,4,1,16
+AF-Q9LIK9-F1-model_v6,32,56 Conformer3D_COMPOUND_CID_154733091_out.pdbqt,154733091,-6.648,N-[2-(5-methoxy-1-sulfanylindol-3-yl)ethyl]acetamide,COc1ccc2c(c1)c(CCNC(C)=O)cn2S,264.35,2.02,43.26,3,2,4,2,18
+AF-Q9LIK9-F1-model_v6,33,28 Conformer3D_COMPOUND_CID_74627779_out.pdbqt,74627779,-6.633,"2-[(1R,2R,3E)-3-methoxyimino-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",CC/C=C\C[C@H]1/C(=N/OC)CC[C@@H]1CC(=O)O,239.31,2.85,58.89,3,1,6,0,17
+AF-Q9LIK9-F1-model_v6,34,37 Conformer3D_COMPOUND_CID_12071638_out.pdbqt,12071638,-6.62,"2-(4,8-dimethylnonyl)-6-hydroxybenzoic acid",CC(C)CCC[C@H](C)CCCc1cccc(O)c1C(=O)O,292.42,4.88,57.53,2,2,9,1,21
+AF-Q9LIK9-F1-model_v6,35,91 Conformer3D_COMPOUND_CID_7017_out.pdbqt,7017,-6.566,2-phenylphenol,Oc1ccccc1-c1ccccc1,170.21,3.06,20.23,1,1,1,2,13
+AF-Q9LIK9-F1-model_v6,36,34 Conformer3D_COMPOUND_CID_7251182_out.pdbqt,7251182,-6.542,"2-[(1R,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@@H]1CC(=O)[O-],209.26,1.08,57.2,3,0,5,0,15
+AF-Q9LIK9-F1-model_v6,37,35 Conformer3D_COMPOUND_CID_126843507_out.pdbqt,126843507,-6.501,2-[2-[(Z)-5-hydroxypent-2-enyl]-3-oxocyclopentyl]acetate,O=C([O-])C[C@@H]1CCC(=O)[C@H]1C/C=C\CCO,225.26,0.05,77.43,4,1,6,0,16
+AF-Q9LIK9-F1-model_v6,38,33 Conformer3D_COMPOUND_CID_7251179_out.pdbqt,7251179,-6.47,"2-[(1S,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)[O-],209.26,1.08,57.2,3,0,5,0,15
+AF-Q9LIK9-F1-model_v6,39,27 Conformer3D_COMPOUND_CID_163321940_out.pdbqt,163321940,-6.461,"2,2-dideuterio-2-[(1R,2R)-2,4,4-trideuterio-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",[2H]C1([2H])C[C@H](C([2H])([2H])C(=O)O)[C@@]([2H])(C/C=C\CC)C1=O,215.3,2.41,54.37,2,1,5,0,15
+AF-Q9LIK9-F1-model_v6,40,19 Conformer3D_COMPOUND_CID_54434743_out.pdbqt,54434743,-6.398,4-methylsulfanyl-N-(propan-2-ylsulfamoyl)aniline,CSc1ccc(NS(=O)(=O)NC(C)C)cc1,260.38,2.06,58.2,3,2,5,1,16
+AF-Q9LIK9-F1-model_v6,41,111 Conformer3D_COMPOUND_CID_3080699_out.pdbqt,3080699,-6.392,2-hydroxy-5-nitrosobenzoic acid,O=Nc1ccc(O)c(C(=O)O)c1,167.12,1.49,86.96,4,2,2,1,12
+AF-Q9LIK9-F1-model_v6,42,26 Conformer3D_COMPOUND_CID_5281166_out.pdbqt,5281166,-6.389,"2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetic acid",CC/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)O,210.27,2.41,54.37,2,1,5,0,15
+AF-Q9LIK9-F1-model_v6,43,48 Conformer3D_COMPOUND_CID_5281929_out.pdbqt,5281929,-6.375,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)OC,224.3,2.5,43.37,3,0,5,0,16
+AF-Q9LIK9-F1-model_v6,44,10 Conformer3D_COMPOUND_CID_71365969_out.pdbqt,71365969,-6.354,1-(dimethylamino)-4-(sulfamoyliminomethyl)benzene,CN(C)c1ccc(C=NS(N)(=O)=O)cc1,227.29,0.37,75.76,3,1,3,1,15
+AF-Q9LIK9-F1-model_v6,45,31 Conformer3D_COMPOUND_CID_71749651_out.pdbqt,71749651,-6.345,"methyl 2-[(1S,2S)-3-oxo-2-[(Z)-pent-2-enyl]cyclopentyl]acetate",CC/C=C\C[C@@H]1C(=O)CC[C@H]1[13CH2][13C](=O)OC,226.28,2.5,43.37,3,0,5,0,16
+AF-Q9LIK9-F1-model_v6,46,29 Conformer3D_COMPOUND_CID_71749649_out.pdbqt,71749649,-6.3,"2-[(1S,2S)-3-oxo-2-[(Z)-5,5,5-trideuteriopent-2-enyl]cyclopentyl]acetic acid",[2H]C([2H])([2H])C/C=C\C[C@@H]1C(=O)CC[C@H]1CC(=O)O,213.29,2.41,54.37,2,1,5,0,15
+AF-Q9LIK9-F1-model_v6,47,82 Conformer3D_COMPOUND_CID_17507_out.pdbqt,17507,-6.239,"2,5-dihydroxybenzenesulfonic acid",O=S(=O)(O)c1cc(O)ccc1O,190.18,0.34,94.83,4,3,1,1,12
+AF-Q9LIK9-F1-model_v6,48,30 Conformer3D_COMPOUND_CID_11557659_out.pdbqt,11557659,-6.203,"methyl 2-[(1R,2R)-3-oxo-2-[(Z)-5,5,5-trideuteriopent-2-enyl]cyclopentyl]acetate",[2H]C([2H])([2H])C/C=C\C[C@H]1C(=O)CC[C@@H]1CC(=O)OC,227.32,2.5,43.37,3,0,5,0,16
+AF-Q9LIK9-F1-model_v6,49,106 Conformer3D_COMPOUND_CID_158364_out.pdbqt,158364,-6.138,"4-(carboxymethyl)-N,N-bis(2-chloroethyl)benzeneamine oxide",O=C(O)Cc1ccc([N+]([O-])(CCCl)CCCl)cc1,292.16,2.6,60.36,2,1,7,1,18
+AF-Q9LIK9-F1-model_v6,50,45 Conformer3D_COMPOUND_CID_12611335_out.pdbqt,12611335,-6.118,methyl 2-hydroxy-4-(oxiran-2-ylmethoxy)benzoate,COC(=O)c1ccc(OC[C@@H]2CO2)cc1O,224.21,0.96,68.29,5,1,4,1,16
+AF-Q9LIK9-F1-model_v6,51,83 Conformer3D_COMPOUND_CID_33037_out.pdbqt,33037,-6.053,"(2S,3S,4S,5R)-2,3,4,5-tetrahydroxyhexanedioic acid",O=C(O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O,210.14,-3.4,155.52,6,6,5,0,14
+AF-Q9LIK9-F1-model_v6,52,71 Conformer3D_COMPOUND_CID_5231_out.pdbqt,5231,-6.006,2-acetamido-3-methyl-3-nitrososulfanylbutanoic acid,CC(=O)N[C@H](C(=O)O)C(C)(C)SN=O,220.25,0.77,95.83,5,2,5,0,14
+AF-Q9LIK9-F1-model_v6,53,23 Conformer3D_COMPOUND_CID_4615423_out.pdbqt,4615423,-5.97,(4-methylphenyl) hydrogen sulfate,Cc1ccc(OS(=O)(=O)O)cc1,188.2,1.18,63.6,3,1,2,1,12
+AF-Q9LIK9-F1-model_v6,54,12 Conformer3D_COMPOUND_CID_137347899_out.pdbqt,137347899,-5.951,"2-(sulfamoylamino)-1,4,5,6-tetrahydropyrimidine",NS(=O)(=O)NC1=NCCCN1,178.22,-1.87,96.58,4,3,1,0,11
+AF-Q9LIK9-F1-model_v6,55,21 Conformer3D_COMPOUND_CID_1994214_out.pdbqt,1994214,-5.936,N-(dimethylsulfamoyl)-N-(thiophen-2-ylmethyl)butan-1-amine,CCCCN(Cc1cccs1)S(=O)(=O)N(C)C,276.43,2.16,40.62,3,0,7,1,17
+AF-Q9LIK9-F1-model_v6,56,47 Conformer3D_COMPOUND_CID_390924_out.pdbqt,390924,-5.912,prop-2-ynyl 2-hydroxybenzoate,C#CCOC(=O)c1ccccc1O,176.17,1.18,46.53,3,1,2,1,13
+AF-Q9LIK9-F1-model_v6,57,7 Conformer3D_COMPOUND_CID_71441023_out.pdbqt,71441023,-5.827,2-methyl-N-(2-methylbut-3-en-2-ylsulfamoyl)but-3-en-2-amine,C=CC(C)(C)NS(=O)(=O)NC(C)(C)C=C,232.35,1.34,58.2,2,2,6,0,15
+AF-Q9LIK9-F1-model_v6,58,85 Conformer3D_COMPOUND_CID_56633199_out.pdbqt,56633199,-5.787,nonan-5-yl hydrogen sulfate,CCCCC(CCCC)OS(=O)(=O)O,224.32,2.55,63.6,3,1,8,0,14
+AF-Q9LIK9-F1-model_v6,59,108 Conformer3D_COMPOUND_CID_54675850_out.pdbqt,54675850,-5.75,2-carboxyphenolate,O=C(O)c1ccccc1[O-],137.11,0.46,60.36,2,1,1,1,10
+AF-Q9LIK9-F1-model_v6,60,116 Conformer3D_COMPOUND_CID_5147_out.pdbqt,5147,-5.724,2-hydroxybenzamide,NC(=O)c1ccccc1O,137.14,0.49,63.32,2,2,1,1,10
+AF-Q9LIK9-F1-model_v6,61,49 Conformer3D_COMPOUND_CID_573652_out.pdbqt,573652,-5.721,3-methyl-2-(3-methylbutyl)cyclopent-2-en-1-one,CC1=C(CCC(C)C)C(=O)CC1,166.26,3.1,17.07,1,0,3,0,12
+AF-Q9LIK9-F1-model_v6,62,120 Conformer3D_COMPOUND_CID_12243705_out.pdbqt,12243705,-5.712,2-methylpyridine-3-carboxamide,Cc1ncccc1C(N)=O,136.15,0.49,55.98,2,1,1,1,10
+AF-Q9LIK9-F1-model_v6,63,94 Conformer3D_COMPOUND_CID_978_out.pdbqt,978,-5.711,4-aminobenzoic acid,Nc1ccc(C(=O)O)cc1,137.14,0.97,63.32,2,2,1,1,10
+AF-Q9LIK9-F1-model_v6,64,44 Conformer3D_COMPOUND_CID_17862778_out.pdbqt,17862778,-5.711,"6,6-dihydroxycyclohexa-2,4-diene-1-carboxylic acid",O=C(O)[C@H]1C=CC=CC1(O)O,156.14,-0.51,77.76,3,3,1,0,11
+AF-Q9LIK9-F1-model_v6,65,86 Conformer3D_COMPOUND_CID_980_out.pdbqt,980,-5.656,4-nitrophenol,O=[N+]([O-])c1ccc(O)cc1,139.11,1.3,63.37,3,1,1,1,10
+AF-Q9LIK9-F1-model_v6,66,41 Conformer3D_COMPOUND_CID_155803953_out.pdbqt,155803953,-5.637,"2,3,4,5-tetradeuterio-6-deuteriooxybenzoic acid",[2H]Oc1c([2H])c([2H])c([2H])c([2H])c1C(=O)O,143.15,1.09,57.53,2,2,2,1,10
+AF-Q9LIK9-F1-model_v6,67,107 Conformer3D_COMPOUND_CID_338_out.pdbqt,338,-5.618,2-hydroxybenzoic acid,O=C(O)c1ccccc1O,138.12,1.09,57.53,2,2,1,1,10
+AF-Q9LIK9-F1-model_v6,68,50 Conformer3D_COMPOUND_CID_10261_out.pdbqt,10261,-5.616,3-methyl-2-pent-2-enylcyclopent-2-en-1-one,CCC=CCC1=C(C)CCC1=O,164.25,3.02,17.07,1,0,3,0,12
+AF-Q9LIK9-F1-model_v6,69,8 Conformer3D_COMPOUND_CID_71380131_out.pdbqt,71380131,-5.576,"1,1,1,2-tetrachloro-2-(dimethylsulfamoylamino)ethane",CN(C)S(=O)(=O)N[C@H](Cl)C(Cl)(Cl)Cl,290.0,1.32,49.41,2,1,3,0,13
+AF-Q9LIK9-F1-model_v6,70,42 Conformer3D_COMPOUND_CID_71309006_out.pdbqt,71309006,-5.567,"deuterio 2,3,4,5-tetradeuterio-6-deuteriooxybenzoate",[2H]OC(=O)c1c([2H])c([2H])c([2H])c([2H])c1O[2H],144.16,1.09,57.53,3,2,2,1,10
+AF-Q9LIK9-F1-model_v6,71,81 Conformer3D_COMPOUND_CID_85065_out.pdbqt,85065,-5.49,3-prop-2-enoyloxypropane-1-sulfonic acid,C=CC(=O)OCCCS(=O)(=O)O,194.21,-0.01,80.67,4,1,5,0,12
+AF-Q9LIK9-F1-model_v6,72,2 Conformer3D_COMPOUND_CID_15155595_out.pdbqt,15155595,-5.431,"2-(sulfamoylamino)-4,5-dihydro-1,3-oxazole",NS(=O)(=O)NC1=NCCO1,165.17,-1.83,93.78,4,2,1,0,10
+AF-Q9LIK9-F1-model_v6,73,72 Conformer3D_COMPOUND_CID_9605288_out.pdbqt,9605288,-5.399,(Z)-ethenoxyimino-oxido-pyrrolidin-1-ylazanium,C=CO/N=[N+](\[O-])N1CCCC1,157.17,1.03,50.9,3,0,3,0,11
+AF-Q9LIK9-F1-model_v6,74,102 Conformer3D_COMPOUND_CID_2230_out.pdbqt,2230,-5.342,"methyl 1-methyl-3,6-dihydro-2H-pyridine-5-carboxylate",COC(=O)C1=CCCN(C)C1,155.2,0.42,29.54,3,0,1,0,11
+AF-Q9LIK9-F1-model_v6,75,20 Conformer3D_COMPOUND_CID_15155596_out.pdbqt,15155596,-5.341,"2-(sulfamoylamino)-4,5-dihydro-1,3-thiazole",NS(=O)(=O)NC1=NCCS1,181.24,-1.12,84.55,4,2,1,0,10
+AF-Q9LIK9-F1-model_v6,76,46 Conformer3D_COMPOUND_CID_49849878_out.pdbqt,49849878,-5.319,"deuterio-(2,3,4,5-tetradeuterio-6-deuteriooxyphenyl)methanone",[2H]Oc1c([2H])c([2H])c([2H])c([2H])c1C([2H])=O,128.16,1.2,37.3,2,1,2,1,9
+AF-Q9LIK9-F1-model_v6,77,103 Conformer3D_COMPOUND_CID_87310_out.pdbqt,87310,-5.308,(2R)-2-amino-3-prop-2-enylsulfinylpropanoic acid,C=CC[S@](=O)C[C@H](N)C(=O)O,177.22,-0.67,80.39,3,2,5,0,11
+AF-Q9LIK9-F1-model_v6,78,118 Conformer3D_COMPOUND_CID_15070_out.pdbqt,15070,-5.281,pyridine-2-carboxamide,NC(=O)c1ccccn1,122.13,0.18,55.98,2,1,1,1,9
+AF-Q9LIK9-F1-model_v6,79,68 Conformer3D_COMPOUND_CID_135503978_out.pdbqt,135503978,-5.26,(Z)-[3-aminopropyl(propyl)amino]-hydroxyimino-oxidoazanium,CCCN(CCCN)/[N+]([O-])=N/O,176.22,0.31,87.92,3,2,6,0,12
+AF-Q9LIK9-F1-model_v6,80,115 Conformer3D_COMPOUND_CID_936_out.pdbqt,936,-5.229,pyridine-3-carboxamide,NC(=O)c1cccnc1,122.13,0.18,55.98,2,1,1,1,9
+AF-Q9LIK9-F1-model_v6,81,6 Conformer3D_COMPOUND_CID_71380130_out.pdbqt,71380130,-5.158,"1,1,1-trichloro-2-(dimethylsulfamoylimino)ethane",CN(C)S(=O)(=O)N=CC(Cl)(Cl)Cl,253.54,1.23,49.74,2,0,2,0,12
+AF-Q9LIK9-F1-model_v6,82,119 Conformer3D_COMPOUND_CID_938_out.pdbqt,938,-5.128,pyridine-3-carboxylic acid,O=C(O)c1cccnc1,123.11,0.78,50.19,2,1,1,1,9
+AF-Q9LIK9-F1-model_v6,83,5 Conformer3D_COMPOUND_CID_71383291_out.pdbqt,71383291,-4.946,[trimethylsilyl(trimethylsilylsulfamoyl)amino]methane,CN([Si](C)(C)C)S(=O)(=O)N[Si](C)(C)C,254.5,1.42,49.41,2,1,4,0,14
+AF-Q9LIK9-F1-model_v6,84,64 Conformer3D_COMPOUND_CID_6331148_out.pdbqt,6331148,-4.683,N-(diethylamino)-N-oxidonitrous amide,CCN(CC)N([O-])N=O,132.14,0.72,58.97,4,0,4,0,9
+AF-Q9LIK9-F1-model_v6,85,66 Conformer3D_COMPOUND_CID_135406888_out.pdbqt,135406888,-4.676,(Z)-diethylamino-hydroxyimino-oxidoazanium,CCN(CC)/[N+]([O-])=N/O,133.15,0.59,61.9,2,1,3,0,9
+AF-Q9LIK9-F1-model_v6,86,69 Conformer3D_COMPOUND_CID_6331148 (1)_out.pdbqt,6331148,-4.568,N-(diethylamino)-N-oxidonitrous amide,CCN(CC)N([O-])N=O,132.14,0.72,58.97,4,0,4,0,9
+AF-Q9LIK9-F1-model_v6,87,113 Conformer3D_COMPOUND_CID_996_out.pdbqt,996,-4.529,phenol,Oc1ccccc1,94.11,1.39,20.23,1,1,0,1,7
+AF-Q9LIK9-F1-model_v6,88,73 Conformer3D_COMPOUND_CID_1269845_out.pdbqt,1269845,-4.447,2-sulfanylidene-1H-pyrimidin-4-one,O=c1cc[nH]c(=S)[nH]1,128.16,0.43,48.65,2,2,0,1,8
+AF-Q9LIK9-F1-model_v6,89,93 Conformer3D_COMPOUND_CID_655_out.pdbqt,655,-4.235,diethoxy-hydroxy-sulfanylidene-lambda5-phosphane,CCOP(O)(=S)OCC,170.17,1.28,38.69,3,1,4,0,9
+AF-Q9LIK9-F1-model_v6,90,79 Conformer3D_COMPOUND_CID_24955_out.pdbqt,24955,-4.16,1H-imidazole-2-carbaldehyde,O=Cc1ncc[nH]1,96.09,0.22,45.75,2,1,1,1,7
+AF-Q9LIK9-F1-model_v6,91,101 Conformer3D_COMPOUND_CID_248_out.pdbqt,248,-4.121,carboxymethyl(trimethyl)azanium,C[N+](C)(C)CC(=O)O,118.16,-0.22,37.3,1,1,2,0,8
+AF-Q9LIK9-F1-model_v6,92,100 Conformer3D_COMPOUND_CID_247_out.pdbqt,247,-4.076,2-(trimethylazaniumyl)acetate,C[N+](C)(C)CC(=O)[O-],117.15,-1.56,40.13,2,0,2,0,8
+AF-Q9LIK9-F1-model_v6,93,17 Conformer3D_COMPOUND_CID_139618_out.pdbqt,139618,-3.992,Not available,O=S=NSN=S=O,156.21,0.34,58.86,5,0,2,0,7
+AF-Q9LIK9-F1-model_v6,94,84 Conformer3D_COMPOUND_CID_53438496_out.pdbqt,53438496,-3.98,2-diazoacetic acid,N#[N+]C=C([O-])O,86.05,-0.44,71.44,3,1,0,0,6
+AF-Q9LIK9-F1-model_v6,95,95 Conformer3D_COMPOUND_CID_25581_out.pdbqt,25581,-3.922,2-methylpropoxymethanedithioic acid,CC(C)COC(=S)S,150.27,1.87,9.23,2,1,2,0,8
+AF-Q9LIK9-F1-model_v6,96,3 Conformer3D_COMPOUND_CID_77385_out.pdbqt,77385,-3.899,N-dimethylsulfinamoyl-N-methylmethanamine,CN(C)S(=O)N(C)C,136.22,-0.31,23.55,1,0,2,0,8
+AF-Q9LIK9-F1-model_v6,97,18 Conformer3D_COMPOUND_CID_82267_out.pdbqt,82267,-3.788,sulfamide,NS(N)(=O)=O,96.11,-1.85,86.18,2,2,0,0,5
+AF-Q9LIK9-F1-model_v6,98,57 Conformer3D_COMPOUND_CID_753_out.pdbqt,753,-3.76,"propane-1,2,3-triol",OCC(O)CO,92.09,-1.67,60.69,3,3,2,0,6
+AF-Q9LIK9-F1-model_v6,99,99 Conformer3D_COMPOUND_CID_1118_out.pdbqt,1118,-3.722,sulfuric acid,O=S(=O)(O)O,98.08,-0.65,74.6,2,2,0,0,5
+AF-Q9LIK9-F1-model_v6,100,92 Conformer3D_COMPOUND_CID_6405_out.pdbqt,6405,-3.709,2-methylbutan-2-ol,CCC(C)(C)O,88.15,1.17,20.23,1,1,1,0,6
+AF-Q9LIK9-F1-model_v6,101,22 Conformer3D_COMPOUND_CID_1117_out.pdbqt,1117,-3.581,sulfate,O=S(=O)([O-])[O-],96.06,-1.34,80.26,4,0,0,0,5
+AF-Q9LIK9-F1-model_v6,102,75 Conformer3D_COMPOUND_CID_108022_out.pdbqt,108022,-3.567,2-nitrososulfanylethanol,O=NSCCO,107.13,0.39,49.66,4,1,3,0,6
+AF-Q9LIK9-F1-model_v6,103,76 Conformer3D_COMPOUND_CID_2146 (1)_out.pdbqt,2146,-3.498,2-aminoguanidine,NN=C(N)N,74.09,-1.87,90.42,2,3,0,0,5
+AF-Q9LIK9-F1-model_v6,104,114 Conformer3D_COMPOUND_CID_61844_out.pdbqt,61844,-3.443,trihydroxy(methyl)silane,C[Si](O)(O)O,94.14,-1.47,60.69,3,3,0,0,5
+AF-Q9LIK9-F1-model_v6,105,90 Conformer3D_COMPOUND_CID_7919_out.pdbqt,7919,-3.44,propan-2-yloxymethanedithioic acid,CC(C)OC(=S)S,136.24,1.63,9.23,2,1,1,0,7
+AF-Q9LIK9-F1-model_v6,106,87 Conformer3D_COMPOUND_CID_6386_out.pdbqt,6386,-3.346,2-methylpropan-2-ol,CC(C)(C)O,74.12,0.78,20.23,1,1,0,0,5
+AF-Q9LIK9-F1-model_v6,107,13 Conformer3D_COMPOUND_CID_9964064_out.pdbqt,9964064,-3.264,Not available,NS(N)=O,80.11,-1.52,69.11,1,2,0,0,4
+AF-Q9LIK9-F1-model_v6,108,78 Conformer3D_COMPOUND_CID_8028_out.pdbqt,8028,-3.189,oxolane,C1CCOC1,72.11,0.8,9.23,1,0,0,0,5
+AF-Q9LIK9-F1-model_v6,109,70 Conformer3D_COMPOUND_CID_6857661_out.pdbqt,6857661,-3.175,N-oxonitrous amide,O=NN=O,60.01,0.43,58.86,2,0,1,0,4
+AF-Q9LIK9-F1-model_v6,110,65 Conformer3D_COMPOUND_CID_8021_out.pdbqt,8021,-3.158,N-ethylethanamine,CCNCC,73.14,0.62,12.03,1,1,2,0,5
+AF-Q9LIK9-F1-model_v6,111,88 Conformer3D_COMPOUND_CID_8823_out.pdbqt,8823,-3.029,ethoxymethanedithioic acid,CCOC(=S)S,122.21,1.24,9.23,2,1,1,0,6
+AF-Q9LIK9-F1-model_v6,112,80 Conformer3D_COMPOUND_CID_176 (1)_out.pdbqt,176,-2.977,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-Q9LIK9-F1-model_v6,113,77 Conformer3D_COMPOUND_CID_176_out.pdbqt,176,-2.975,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-Q9LIK9-F1-model_v6,114,98 Conformer3D_COMPOUND_CID_176 (2)_out.pdbqt,176,-2.954,acetic acid,CC(=O)O,60.05,0.09,37.3,1,1,0,0,4
+AF-Q9LIK9-F1-model_v6,115,96 Conformer3D_COMPOUND_CID_6599_out.pdbqt,6599,-2.818,dimethylcarbamodithioic acid,CN(C)C(=S)S,121.23,0.76,3.24,1,1,0,0,6
+AF-Q9LIK9-F1-model_v6,116,97 Conformer3D_COMPOUND_CID_702_out.pdbqt,702,-2.413,ethanol,CCO,46.07,-0.0,20.23,1,1,0,0,3
+AF-Q9LIK9-F1-model_v6,117,62 Conformer3D_COMPOUND_CID_945_out.pdbqt,945,-2.326,nitroxyl,N=O,31.01,0.33,40.92,2,1,0,0,2
+AF-Q9LIK9-F1-model_v6,118,74 Conformer3D_COMPOUND_CID_11389353_out.pdbqt,11389353,-2.308,thionitrous S-acid,O=NS,63.08,0.6,29.43,2,1,0,0,3
+AF-Q9LIK9-F1-model_v6,119,67 Conformer3D_COMPOUND_CID_84878_out.pdbqt,84878,-2.273,azanylidyneoxidanium,N#[O+],30.01,-0.1,43.69,1,0,0,0,2
+AF-Q9LIK9-F1-model_v6,120,63 Conformer3D_COMPOUND_CID_3001380_out.pdbqt,3001380,-1.944,nitroxyl anion,[N-]=O,30.01,0.32,39.37,1,0,0,0,2
