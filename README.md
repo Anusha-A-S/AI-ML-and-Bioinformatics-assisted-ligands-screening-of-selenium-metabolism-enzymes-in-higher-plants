@@ -96,6 +96,7 @@ Developed an AI-assisted screening tool for predicting the binding affinity of n
 [Docking_Summary.csv](https://github.com/user-attachments/files/30758441/Docking_Summary.csv)
 [ML_Dataset.csv](https://github.com/user-attachments/files/30758570/ML_Dataset.csv)
 [RandomForest_FeatureImportance.py](https://github.com/user-attachments/files/30760857/RandomForest_FeatureImportance.py)
+RandomForest_Model.pkl – Trained Random Forest model for binding affinity prediction
 [Feature_Importance.csv](https://github.com/user-attachments/files/30760893/Feature_Importance.csv)
 <img width="2400" height="1500" alt="Image" src="https://github.com/user-attachments/assets/b9d3884d-c79f-438d-9bc7-389dcba501aa" />
 
