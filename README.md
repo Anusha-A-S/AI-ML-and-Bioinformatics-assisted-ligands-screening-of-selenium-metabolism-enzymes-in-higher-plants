@@ -33,16 +33,15 @@ This project develops an AI & bioinformatics assisted virtual screening pipeline
 6. Extraction of best pocket coordinated (.csv) by using python script
 7. Collect ligands structure (SDF format) from PubChem
 8. Ligands dataset descriptor (.csv)
-9. Ligand Preparation using python automation with Open Babel (SDF ->PDBQT)
-10. Automated batch docking of 120 ligands to both APS & APR(Python + AutoDock Vina)
+9. Ligand Preparation using python automation with Open Babel, (SDF ->PDBQT)
+10. Automated batch docking of 120 ligands to both APS & APR, (Python + AutoDock Vina)
 11. Docking results extraction along with ranking (.csv), (Python script)
-12. Create machine learning dataset(.csv) by using molecular descriptors of ligands and docking results (Python script)
-13. Create machine learning dataset(.csv) by using molecular descriptors of ligands and docking results (Python script)
-14. Random Forest machine learning model training
-15. Model performance evaluation (MAE, MSE and R² metrics)
-16. Feature importance analysis of molecular descriptor (Python script)
-17. Development of AI screening tool
-18. Prediction and prioritization of new ligands binding affinity for future experimental validation before the docking
+12. Create machine learning dataset(.csv) by using molecular descriptors of ligands and docking results, (Python script)
+13. Random Forest machine learning model training
+14. Model performance evaluation (MAE, MSE and R² metrics)
+15. Feature importance analysis of molecular descriptor, (Python script)
+16. Development of AI screening tool
+17. Prediction and prioritization of new ligands binding affinity for future experimental validation before the docking
 
 ## DATABASES USED:
 KEGG
