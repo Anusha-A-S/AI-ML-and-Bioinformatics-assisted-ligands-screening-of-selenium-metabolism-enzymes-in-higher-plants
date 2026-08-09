@@ -44,41 +44,41 @@ This project develops an AI & bioinformatics assisted virtual screening pipeline
 17. Prediction and prioritization of new ligands binding affinity for future experimental validation before the docking
 
 ## DATABASES USED:
-KEGG
-UniPort
-NCBI 
-Pfam
-BRENDA
-ChEMBL
-Protein Data Base (PDB)
-AlphaFold Protein Structure Database
-PubChem
+• KEGG
+• UniPort
+• NCBI 
+• Pfam
+• BRENDA
+• ChEMBL
+• Protein Data Base (PDB)
+• AlphaFold Protein Structure Database
+• PubChem
 
 ## SOFWARES AND TOOLS USED:
-AutoDockTools (ADT)
-Open Babel
-P2Rank
-AutoDock Vina
-Python
-Visual Studio Code (VS Code)
+• AutoDockTools (ADT)
+• Open Babel
+• P2Rank
+• AutoDock Vina
+• Python
+• Visual Studio Code (VS Code)
 
 ## PYTHON LIBRARIES AND MODULES USED:
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Joblib
-natsort
-RDKit
-PubChemPy
-os
-re
-subprocessor
+• Pandas
+• NumPy
+• Matplotlib
+• Scikit-learn
+• Joblib
+• natsort
+• RDKit
+• PubChemPy
+• os
+• re
+• subprocessor
 
 ## MACHINE LEARNING:
-Random Forest Regression
-feature importance
-MAE, MSE and R² evaluation metrics 
+• Random Forest Regression
+• feature importance
+• MAE, MSE and R² evaluation metrics 
 
 ## RESULTS:
 Found best ligand by virtual python batch docking by using AutoDock Vina.
@@ -102,11 +102,11 @@ RandomForest_Model.pkl – Trained Random Forest model for binding affinity pred
 [AI_Screening_Tool.py](https://github.com/user-attachments/files/30761260/AI_Screening_Tool.py)
 
 ## FUTURE SCOPE:
-Screen larger ligand libraries.
-Perform molecular dynamics simulations. 
-Experimental validation in plants.
-Integrate ADMET prediction for comprehensive ligand evaluation.
-Extend the workflow to additional selenium metabolism enzymes and crop species.
+• Screen larger ligand libraries.
+• Perform molecular dynamics simulations. 
+• Experimental validation in plants.
+• Integrate ADMET prediction for comprehensive ligand evaluation.
+• Extend the workflow to additional selenium metabolism enzymes and crop species.
 
 
 
