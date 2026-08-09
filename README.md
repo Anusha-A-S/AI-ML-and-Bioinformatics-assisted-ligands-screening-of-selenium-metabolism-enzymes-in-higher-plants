@@ -54,7 +54,7 @@ This project develops an AI & bioinformatics assisted virtual screening pipeline
 • AlphaFold Protein Structure Database
 • PubChem
 
-## SOFWARES AND TOOLS USED:
+## SOFTWARES AND TOOLS USED:
 • AutoDockTools (ADT)
 • Open Babel
 • P2Rank
